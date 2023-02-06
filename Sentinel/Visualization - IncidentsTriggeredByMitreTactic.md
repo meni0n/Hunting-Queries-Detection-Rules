@@ -1,4 +1,4 @@
-# Visualize Incidents triggered by MITRE ATT&CK Tactics
+# Visualize MITRE ATT&CK Tactics on triggered Sentinel incidents
 
 ## Query Information
 
